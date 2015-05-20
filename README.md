@@ -5,11 +5,11 @@
 Criar uma classe capaz de calcular o IMC(indice de massa corporal) e informar a classificação(Saudável, Sobrepeso, etc) baseada no IMC Calculado.
 
 
-### Objetivo
+## Objetivo
 - Utilizar o Data Provider para automatizar casos de teste 
 - Validar Exceptions(exemplo ausência de campos, valores inválidos)
 
-### Formula
+## Formula
 
 <math>
 <mi>
@@ -28,7 +28,7 @@ IMC
 
 A únidade de medida do **Peso** é em Kg e da **Altura** é em metros
 
-### Classificações
+## Classificações
 
 IMC           | Classificação
 ------------- | ------------------------------
@@ -41,9 +41,9 @@ IMC           | Classificação
 35 a < 40     | Obesidade Grau II (severa)
 ≥ 40          | Obesidade Grau III (mórbida)
 
-### Exemplo 
+## Exemplo 
 
-#### Cálculo
+### Cálculo
 
 <math>
 <mi>
@@ -73,5 +73,29 @@ IMC
 </mi>
 </math>
 
-#### Classificação 
+### Classificação 
 Saudável
+### Outros exemplos
+Peso          | Altura    | IMC       | Classificação
+------------- | --------- | --------- | -------------
+50            | 1,80      | 15,43     | Magreza grave
+51            | 1,75      | 16,65     | Magreza moderada
+60            | 1,85      | 17,85     | Magreza leve
+83            | 1,85      | 24,25     | Saudável
+98            | 1,83      | 29,26     | Sobrepeso
+115           | 1,87      | 32,89     | Obesidade Grau I
+125           | 1,80      | 38,58     | Obesidade Grau II (severa)
+150           | 1,75      | 48,98     | Obesidade Grau III (mórbida)
+
+## FeedBack
+### Pontos positivos
+- O desafio \*\*\*
+- Objetivo atendido \*\*\*\*\*
+- Novos métodos \*\*\*
+
+
+### Pontos negativos
+- Faltou interação dos participantes
+
+### Próximo MC
+Wilton
