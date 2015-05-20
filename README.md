@@ -26,6 +26,8 @@ IMC
 </mi>
 </math>
 
+IMC = Peso/(Altura^2)
+
 A únidade de medida do **Peso** é em Kg e da **Altura** é em metros
 
 ## Classificações
@@ -73,6 +75,8 @@ IMC
 </mi>
 </math>
 
+IMC = 83/(1,85^2) = 83/3,4225 = 24,25
+
 ### Classificação 
 Saudável
 ### Outros exemplos
@@ -96,6 +100,9 @@ Peso          | Altura    | IMC       | Classificação
 
 ### Pontos negativos
 - Faltou interação dos participantes
+
+### Coverege
+100%
 
 ### Próximo MC
 Wilton
