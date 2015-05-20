@@ -72,7 +72,7 @@ class IMCTest extends \PHPUnit_Framework_TestCase
                 60,
                 1.85,
                 [
-                    'imc' => 17.85,
+                    'imc' => 17.53,
                     'classificacao' => 'Magreza leve'
                 ]
             ],

@@ -84,7 +84,7 @@ Peso          | Altura    | IMC       | Classificação
 ------------- | --------- | --------- | -------------
 50            | 1,80      | 15,43     | Magreza grave
 51            | 1,75      | 16,65     | Magreza moderada
-60            | 1,85      | 17,85     | Magreza leve
+60            | 1,85      | 17,53     | Magreza leve
 83            | 1,85      | 24,25     | Saudável
 98            | 1,83      | 29,26     | Sobrepeso
 115           | 1,87      | 32,89     | Obesidade Grau I
